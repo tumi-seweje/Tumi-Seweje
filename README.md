@@ -21,8 +21,13 @@ Explore
    target="_blank" 
    rel="noopener noreferrer"
    class="github-link">
-    View Portfolio Website ↗
-</a>  · LinkedIn
+   Portfolio Website ↗
+</a>   · <a href="https://linkedin.com" 
+   target="_blank" 
+   rel="noopener noreferrer"
+   class="linkedin-link">
+   LinkedIn ↗
+</a> 
 
 <!--
 **tumi-seweje/Tumi-Seweje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

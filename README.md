@@ -17,7 +17,12 @@ Python · SQL · Excel · R · AutoCAD · Aspen HYSYS
 
 Explore
 
-Portfolio Website · LinkedIn
+<a href="https://tumi-seweje.github.io" 
+   target="_blank" 
+   rel="noopener noreferrer"
+   class="github-link">
+    View Portfolio Website ↗
+</a>  · LinkedIn
 
 <!--
 **tumi-seweje/Tumi-Seweje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

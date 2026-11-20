@@ -6,8 +6,8 @@ My interests lie at the intersection of engineering, data analytics and technolo
 
 ### Areas of Interest
 
-* Process engineering and optimisation
 * Data analytics and visualisation
+* Process engineering and optimisation
 * Manufacturing and operational performance
 * Energy and sustainability
 

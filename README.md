@@ -4,18 +4,18 @@ I’m a Chemical Engineering MEng student at the University of Nottingham, curre
 
 My interests lie at the intersection of engineering, data analytics and technology, particularly in using data to understand complex systems, improve processes and support better decisions.
 
-Areas of Interest
+###Areas of Interest
 
 * Process engineering and optimisation
 * Data analytics and visualisation
 * Manufacturing and operational performance
 * Energy and sustainability
 
-Technical Skills
+###Technical Skills
 
 Python · SQL · Excel · R · AutoCAD · Aspen HYSYS
 
-Explore
+###Explore
 
 <a href="https://tumi-seweje.github.io" 
    target="_blank" 
